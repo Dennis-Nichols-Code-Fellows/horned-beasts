@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+//start with imports
+import React from 'react';
+import Header from './Header.js';
+import Main from './Main.js';
+import Footer from './Footer.js';
 import './App.css';
 
-function App() {
+//then build then component (we're using classes, but functions are the newer syntax)
+
+  //start by extending the basic react component
+class App extends React.Component {
+  //make a render function to display on screen
+  render() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <Header />
+      <Main />
+      <Footer />
+    </>
+  )
+  }
 }
 
+
+//then export it
 export default App;
