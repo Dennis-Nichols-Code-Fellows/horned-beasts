@@ -1,4 +1,17 @@
 
+article {
+  margin-top: 2vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2vw;
+}
+
+article img {
+  height: 50%;
+  border-bottom: 2px solid lightgrey;
+}
+
 h1 {
   font-size: 8vh;
   text-align: center;
@@ -8,29 +21,33 @@ h2 {
   text-align: center;
 }
 
+.card {
+  height: 20vh;
+}
+
+.card p {
+  color: black;
+  text-align: left;
+}
+
+#card-upper {
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: space-between;
+}
+
+#card-upper p {
+  width: 30%;
+  text-align: right;
+}
+
 p {
   color: #DBBEA1;
   text-align: center;
 }
 
-.beast  {
-  padding: 2vw;
-  margin: 2vw;
-  background-color: #A37B73;
-  text-align: center;
-  border-radius: 20px;
+Footer {
+  margin-top: 1vw;
 }
 
-.beast h2 {
-  color:black;
-}
 
-.beast p {
-  color: black;
-}
-
-img {
-  width: 50vw;
-  height: auto;
-  border-radius: 20px;
-}
