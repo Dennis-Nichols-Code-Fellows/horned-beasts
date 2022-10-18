@@ -17,10 +17,10 @@ class Main extends React.Component {
   render() {
     return (
       <>
-        <h2>Gallery of Beasts</h2>
-        {beast_list}
+        <h2>Gallery of Beasts: Click on Pictures to Like 💖</h2>
+        <article>{beast_list}</article>
       </>
-    )
+    );
     }
 }
 

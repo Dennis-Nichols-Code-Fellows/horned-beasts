@@ -16,7 +16,7 @@
 
 - Est. time to complete: 45 min
 
-- Start time:
+- Start time: 1725
 
 - End time:
 
@@ -26,7 +26,7 @@
 
 - Est. time to complete: 45 min
 
-- Start time:
+- Start time: 1725
 
 - End time:
 
