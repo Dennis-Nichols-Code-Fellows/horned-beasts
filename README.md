@@ -18,9 +18,9 @@
 
 - Start time: 1725
 
-- End time:
+- End time: 1805
 
-- Total time needed:
+- Total time needed: 20 min (did in parallel with task 3 so divide by 2)
 
 ### 3. Bootstrap styling
 
@@ -28,9 +28,9 @@
 
 - Start time: 1725
 
-- End time:
+- End time: 1805
 
-- Total time needed:
+- Total time needed: 20 min (did in parallel with task 3 so divide by 2)
 
 ### 4. Stretch goal: interactivity
 

@@ -12,6 +12,10 @@ data.forEach(item => {
   )
 });
 
+let beast_sort = [...beast_list];
+
+beast_sort.key.sort(function (a, b){ return a - b});
+
 
 class Main extends React.Component {
   render() {
