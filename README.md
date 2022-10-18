@@ -6,11 +6,11 @@
 
 - Est. time to complete: 15min (because it's mostly set up from the stretch goal yesterday)
 
-- Start time:
+- Start time: 1706
 
-- End time:
+- End time: 1720
 
-- Total time needed:
+- Total time needed: 14min
 
 ### 2. Favorite Beast Vote
 
