@@ -50,4 +50,8 @@ Footer {
   margin-top: 1vw;
 }
 
+.modal img {
+  width: 100%;
+  height: auto;
+}
 

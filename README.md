@@ -40,4 +40,14 @@
 
 - End time:
 
-- Total time needed:
+- Total time needed
+
+### 5. Display Modal
+
+- Est. time to complete: 45 min
+
+- Start time: 1723
+
+- End time:
+
+- Total time needed
