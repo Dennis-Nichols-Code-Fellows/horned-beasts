@@ -1,6 +1,6 @@
 
 article {
-  margin-top: 2vw;
+  margin-top: 4vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -55,3 +55,9 @@ Footer {
   height: auto;
 }
 
+.search {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ margin-top: 2vw;
+}

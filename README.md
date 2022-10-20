@@ -48,6 +48,16 @@
 
 - Start time: 1723
 
-- End time:
+- End time: 1840
 
-- Total time needed
+- Total time needed: ~ 80 min
+
+### 6. Stretch goal: search bar
+
+- Est. time to complete: 45 min
+
+- Start time: 1723
+
+- End time: 1840
+
+- Total time needed: ~ 80 min
