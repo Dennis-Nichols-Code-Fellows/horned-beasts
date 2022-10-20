@@ -40,4 +40,25 @@
 
 - End time:
 
-- Total time needed:
+- Total time needed
+
+### 5. Display Modal
+
+- Est. time to complete: 45 min
+
+- Start time: 1723
+
+- End time: 1840
+
+- Total time needed: ~ 80 min
+
+### 6. Stretch goal: search bar
+
+- Est. time to complete: 45 min
+
+- Start time: 1840
+
+- End time: 2100
+
+- Total time needed: ~ 140 min
+
