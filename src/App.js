@@ -20,6 +20,8 @@ class App extends React.Component {
       selectedBeast: '',
       img_src: '',
       img_alt: '',
+      name: '',
+      selectedVal: '',
     };
   }
 
@@ -38,8 +40,8 @@ class App extends React.Component {
       })
     };
   
-
   render() {
+    //need to use onChange for updating state from the form
     return (
       <>
         <Header />

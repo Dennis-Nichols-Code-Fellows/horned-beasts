@@ -62,3 +62,6 @@
 
 - Total time needed: ~ 140 min
 
+### 7. Filter by horns
+
+- Total time: I forgot to track this precisely, but it was about 2 - 2.5 hours
