@@ -56,8 +56,9 @@
 
 - Est. time to complete: 45 min
 
-- Start time: 1723
+- Start time: 1840
 
-- End time: 1840
+- End time: 2100
 
-- Total time needed: ~ 80 min
+- Total time needed: ~ 140 min
+
