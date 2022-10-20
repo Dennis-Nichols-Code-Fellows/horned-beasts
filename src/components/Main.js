@@ -13,7 +13,6 @@ class Main extends React.Component {
     };
   }
 
-
   filter = () => {
     if (this.state.query) {
       return this.props.data.filter((beast) => {
@@ -24,20 +23,16 @@ class Main extends React.Component {
     }
   };
 
-  
-
   onChange = (e) => {
-    // console.log(e.target.value);
     this.setState({
       query: e.target.value.toLowerCase(),
     });
     this.filter();
-    // console.log(this.state.query);
   };
 
   render() {
     let filtered_beasts = this.filter();
-    // let display_items = beast_list.filter(beast => beast.title.includes(this.state.query));
+   
     let beast_list = filtered_beasts.map((item) => {
       return (
         <HornedBeast
